@@ -29,7 +29,7 @@ gunicorn==19.9.0
 heroku==0.1.4
 html-parser==0.2
 html5==0.0.9
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 imageio==2.5.0
 itsdangerous==1.1.0
